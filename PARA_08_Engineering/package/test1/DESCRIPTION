@@ -1,0 +1,14 @@
+Package: test1
+License: LGPL
+Title: Training test.
+Type: Package
+LazyLoad: yes
+Author: Jian Li <rweibo@sina.com>
+Maintainer: Jian Li <rweibo@sina.com>
+Description: Training test.
+Version: 0.1-2
+Date: 2014-05-07
+Depends: R (>= 2.14.0)
+Suggests: RUnit
+
+
