@@ -1,0 +1,3 @@
+
+gcc -g learn.c
+a.exe
